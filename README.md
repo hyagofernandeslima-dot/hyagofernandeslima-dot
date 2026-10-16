@@ -35,3 +35,20 @@ Sou estudante do curso Técnico em Desenvolvimento de Sistemas, apaixonado por t
 [Meu GitHub](https://github.com/hyagofernandeslima-dot)
 
 ⭐ Sempre aprendendo e transformando ideias em projetos!
+
+
+---
+
+### 🚀 Projetos em destaque
+
+#### 🌎 GeoRoteiro — Planejamento de Viagens
+
+Site desenvolvido para apresentar destinos turísticos pelo Brasil, com páginas de navegação, informações sobre destinos e interface web.
+
+**Tecnologias:** HTML5, CSS3 e JavaScript.
+
+🌐 [Acessar o site](https://hyagofernandeslima-dot.github.io/GeoRoteiro/)
+
+💻 [Ver código no GitHub](https://github.com/hyagofernandeslima-dot/GeoRoteiro)
+
+---
