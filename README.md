@@ -1,16 +1,37 @@
-## Hi there 👋
+# Olá, eu sou Hyago Fernandes! 
 
-<!--
-**hyagofernandeslima-dot/hyagofernandeslima-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Desenvolvedor Web em formação | 🤖 Automações com n8n
 
-Here are some ideas to get you started:
+Sou estudante do curso Técnico em Desenvolvimento de Sistemas, apaixonado por tecnologia, desenvolvimento web e automação de processos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Estudante de Desenvolvimento de Sistemas
+- 🚀 Desenvolvendo projetos com JavaScript e Node.js
+- 🤖 Criando automações e chatbots com n8n
+- 🌱 Sempre buscando aprender novas tecnologias
+- 💼 Interesse em oportunidades de estágio e projetos freelancer
+
+---
+
+### 🛠️ Tecnologias e ferramentas
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,git,github,vscode" />
+</p>
+
+**Automações e integrações:** n8n • APIs • Google Sheets
+
+---
+
+### 📊 Estatísticas do GitHub
+
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=hyagofernandeslima-dot&show_icons=true&theme=tokyonight)
+
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=hyagofernandeslima-dot&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 Vamos nos conectar!
+
+[Meu GitHub](https://github.com/hyagofernandeslima-dot)
+
+⭐ Sempre aprendendo e transformando ideias em projetos!
